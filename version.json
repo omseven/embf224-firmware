@@ -1,9 +1,10 @@
 {
-  "device": "WaterFix WF001",
-  "version": "V2.52",
+  "device": "EMBF224 Booster Pump Controller",
+  "version": "V1.81",
   "minAppVersion": "1.0",
   "releaseDate": "2026-09-27",
-  "binUrl": "https://github.com/omseven/wf001-firmware/releases/download/V2.52/WaterFix_Controller.efw",
-  "notes": "Firmware V2.52: Enhanced SmartHub integration, fast in-app radar auto-discovery, robust RTC synchronization, and seamless OTA flashing.",
-  "notesFa": "نسخه ۲.۵۲: بهبود یکپارچه‌سازی با اسمارت‌هاب، جستجوی فوق سریع راداری، همگام‌سازی پایدار ساعت RTC و ارتقای بهینه فریمور از طریق OTA."
+  "binUrl": "https://github.com/omseven/embf224-firmware/releases/download/EMBF224/Booster_EMBF224.efw",
+  "notes": "Firmware V1.81: Enhanced Cloud OTA update, SmartHub integration, fast in-app radar auto-discovery, robust RTC synchronization, and seamless OTA flashing.",
+  "notesFa": "نسخه ۱.۷۵: پشتیبانی از آپدیت ابری گیت‌هاب (Cloud OTA)، یکپارچه‌سازی با اسمارت‌هاب، جستجوی فوق سریع راداری، همگام‌سازی پایدار ساعت RTC و ارتقای بهینه فریمور از طریق OTA."
 }
+
