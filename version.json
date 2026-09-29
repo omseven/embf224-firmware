@@ -1,9 +1,9 @@
 {
   "device": "EMBF224 Booster Pump Controller",
-  "version": "V1.82",
+  "version": "V1.83",
   "minAppVersion": "1.0",
-  "releaseDate": "2026-09-28",
+  "releaseDate": "2026-09-29",
   "binUrl": "https://github.com/omseven/embf224-firmware/releases/download/EMBF224/Booster_EMBF224.efw",
-  "notes": "Firmware V1.82: Modernized inline dropdown UI, fixed top-bar multi-language layout, GPU-accelerated graphics, and butter-smooth 60FPS continuous gauge physics.",
-  "notesFa": "نسخه ۱.۸۲: بهینه‌سازی و مدرن‌سازی منوهای کشویی درجا، تثبیت چیدمان سربرگ در تمام زبان‌ها، شتاب‌دهی سخت‌افزاری انیمیشن‌ها و حرکت فوق‌العاده نرم و ۶۰fps عقربه گیج فشار."
+  "notes": "Firmware V1.83: Solid WiFi LED indicator behavior on active connection, unified COM LED activity on both RS485 and Wi-Fi data exchange, perfectly centered radar scanner HUD pulse, and web code cleanup.",
+  "notesFa": "نسخه ۱.۸۳: تثبیت وضعیت روشن دائم ال‌ای‌دی WFI در اتصال کامل بدون چشمک، چشمک زدن ال‌ای‌دی COM در تبادل داده‌های شبکه وای‌فای و RS485، اصلاح تقارن و مرکزیت پالس رادار اسکنر و پاکسازی کدهای وب."
 }
