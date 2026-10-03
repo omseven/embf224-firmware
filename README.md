@@ -23,8 +23,8 @@ The **EMBF224** is an industrial smart booster pump controller engineered for **
 - **True PID Regulation:** High-precision pressure stabilization with configurable Proportional, Integral, and Derivative terms.
 - **Dual Analog Pressure Inputs:** Redundant dual pressure sensor inputs (6 Bar / 10 Bar / 16 Bar / 25 Bar / 40 Bar / 60 Bar) supporting `4–20 mA`, `0–20 mA`, `0–10 mA`, `0–5 V`, and `2–10 V`.
 - **Dual PT100 Temperature Inputs:** Collector and manifold thermal protection and temperature monitoring.
-- **5 Multi-Function Inputs (MFI 1–5):** External phase control, external level float switch, emergency stop, maximum pressure switch, and hardware pump service lockout.
-- **3 Multi-Function Relay Outputs (MFO 1–3):** Exhaust fan, external alarm beacon, system ready, and reservoir auto-fill tank control.
+- **4 Multi-Function Inputs (MFI 1–4):** External phase control, external level float switch, emergency stop, maximum pressure switch, and hardware pump service lockout.
+- **4 Multi-Function Relay Outputs (MFO 1–4):** Exhaust fan, external alarm beacon, system ready, and reservoir auto-fill tank control.
 
 ### 🔄 Intelligent Pump Management & Protection
 - **Dual Changeover (Cyclic Operation):**
