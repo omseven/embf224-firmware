@@ -55,7 +55,7 @@ This repository serves as the central backend for online and local OTA firmware 
 
 ### OTA Update Flow
 1. Connect to the controller's Wi-Fi Access Point or local network.
-2. Open the built-in Web Management Panel in your browser (`http://192.168.4.1`).
+2. Open the built-in Web Management Panel in your browser (`http://192.168.10.1`).
 3. Navigate to **System / Update** (بروزرسانی).
 4. Select **Online Update** to automatically fetch the latest release from this repository or upload the `.efw` package manually.
 
