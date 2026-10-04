@@ -1,9 +1,9 @@
 {
   "device": "EMBF224 Booster Pump Controller",
-  "version": "V1.85",
+  "version": "V1.86",
   "minAppVersion": "1.0",
-  "releaseDate": "2026-10-03",
+  "releaseDate": "2026-10-04",
   "binUrl": "https://github.com/omseven/embf224-firmware/releases/download/EMBF224/Booster_EMBF224.efw",
-  "notes": "Firmware V1.85: Floater reconnect and disconnect delay parameters (3.1.4, 3.1.5) converted to minutes, pressure sensor off delay (3.2.6) and pump maintenance hour thresholds (3.8.1.x) converted to integer stepping (Step=1), and cross-parameter validation constraints enforced for full load pressure vs setpoint and sleep stop vs wake start inverter output percentages.",
-  "notesFa": "نسخه ۱.۸۵: تبدیل پارامترهای تاخیر وصل و قطع فلوتر (3.1.4 و 3.1.5) به دقیقه، حذف اعشار تاخیر قطعی سنسور (3.2.6) و ساعات سرویس پمپ‌ها (3.8.1.x) با گام ۱ واحدی، و اعمال کامل قیود متقابل فشار فول‌لود در برابر ست‌پوینت و درصد استپ خواب در برابر استارت بیداری."
+  "notes": "Firmware V1.86: Fixed changeover transition sequence to start the next pump immediately after changeover off-delay (chengoffT) without blocking on add delay, improved internal floater fault detection and web alarms separation.",
+  "notesFa": "نسخه ۱.۸۶: اصلاح توالی چنج‌اور جهت استارت بدون وقفه پمپ بعدی بلافاصله پس از اتمام تایمر آف‌تایم چنج‌اور بدون تأخیر اضافی، و بهبود تفکیک آلارم‌های فلوتر داخلی و خارجی در پنل وب."
 }
