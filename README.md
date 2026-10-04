@@ -1,6 +1,6 @@
 # EMBF224 Full Drive Booster Pump Controller Firmware
 
-[![Firmware Version](https://img.shields.io/badge/Firmware-V1.85-brightgreen.svg)](https://github.com/omseven/embf224-firmware/releases/tag/EMBF224)
+[![Firmware Version](https://img.shields.io/badge/Firmware-V1.86-brightgreen.svg)](https://github.com/omseven/embf224-firmware/releases/tag/EMBF224)
 [![Hardware](https://img.shields.io/badge/Hardware-ESP32--S3-blue.svg)](https://elecmarketing.ir/product/controller-boosterpump-embf224/)
 [![Manufacturer](https://img.shields.io/badge/Manufacturer-ElecMarketing-orange.svg)](https://elecmarketing.ir/)
 
@@ -48,7 +48,7 @@ The **EMBF224** is an industrial smart booster pump controller engineered for **
 This repository serves as the central backend for online and local OTA firmware distribution.
 
 ### Latest Release
-- **Version:** `V1.85`
+- **Version:** `V1.86`
 - **Release Tag:** [`EMBF224`](https://github.com/omseven/embf224-firmware/releases/tag/EMBF224)
 - **Binary Image:** [`Booster_EMBF224.efw`](https://github.com/omseven/embf224-firmware/releases/download/EMBF224/Booster_EMBF224.efw)
 - **Metadata:** [`version.json`](https://raw.githubusercontent.com/omseven/embf224-firmware/main/version.json)
