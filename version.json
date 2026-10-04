@@ -1,9 +1,9 @@
 {
   "device": "EMBF224 Booster Pump Controller",
-  "version": "V1.86",
+  "version": "V1.87",
   "minAppVersion": "1.0",
   "releaseDate": "2026-10-04",
   "binUrl": "https://github.com/omseven/embf224-firmware/releases/download/EMBF224/Booster_EMBF224.efw",
-  "notes": "Firmware V1.86: Fixed changeover transition sequence to start the next pump immediately after changeover off-delay (chengoffT) without blocking on add delay, improved internal floater fault detection and web alarms separation.",
-  "notesFa": "نسخه ۱.۸۶: اصلاح توالی چنج‌اور جهت استارت بدون وقفه پمپ بعدی بلافاصله پس از اتمام تایمر آف‌تایم چنج‌اور بدون تأخیر اضافی، و بهبود تفکیک آلارم‌های فلوتر داخلی و خارجی در پنل وب."
+  "notes": "Firmware V1.87: Implemented Mode 1 circular Master pump rotation with decoupled auxiliary cascade staging, integrated industrial Adaptive 1D Kalman Filter with balanced decimal rounding for rock-solid pressure sensing and zero jitter.",
+  "notesFa": "نسخه ۱.۸۷: پیاده‌سازی چرخش حلقوی پمپ لید/مستر در مد ۱ با چینش ترتیبی پمپ‌های کمکی، و ادغام فیلتر پیشرفته کالمن تطبیقی (Adaptive 1D Kalman) به همراه گرد کردن متقارن اعشار برای تثبیت کامل و صفر کردن نوسانات سنسور فشار."
 }
